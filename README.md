@@ -1,10 +1,10 @@
 ### Hi there, I'm Samuele 👋
 
 ## I'm a developer that ❤️ web3!
-- 🖥️ I'm a dev at [Fleek][https://github.com/FleekHQ]!
+- 🖥️ I'm a dev at [Fleek](https://github.com/FleekHQ)!
 - 🌱 I’m currently learning Golang
-- 🔭 Checkout [my Blog][https://codeclimbing.com/]!
-- 📹 Checkout my [Youtube channel][https://www.youtube.com/channel/UC-6PFKSzSq_XVvbhYjq229Q]!
+- 🔭 Checkout [my Blog](https://codeclimbing.com/)!
+- 📹 Checkout my [Youtube channel](https://www.youtube.com/channel/UC-6PFKSzSq_XVvbhYjq229Q)!
 - 🥅 2020 Goals: Learn Golang and make a tutorial series about it
 - 😎 I think Ethereum, IPFS and Filecoin are super cool
 - ⚡ Fun fact: I like rock climbing and doing backflips
