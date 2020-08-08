@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuele 👋
 
-## I'm a developer that ❤️ web3!
+## I am a fullstack developer that ❤️ web3!
 - 🖥️ I'm a dev at [Fleek](https://github.com/FleekHQ)!
 - 🌱 I’m currently learning Golang
 - 🔭 Check out [my Blog](https://codeclimbing.com/)!
