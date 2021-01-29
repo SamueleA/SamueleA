@@ -1,7 +1,7 @@
 ### Hi there, I'm Samuele 👋
 
 ## I am a fullstack developer that ❤️ web3!
-- 🖥️ I'm a dev at [Fleek](https://github.com/FleekHQ)!
+- 🖥️ I'm a dev at [Fleek](https://fleek.co)!
 - 🔭 Check out [my Blog](https://codeclimbing.com/)!
 - 📹 Check out my [Youtube channel](https://www.youtube.com/channel/UC-6PFKSzSq_XVvbhYjq229Q)!
 - 😎 I think Ethereum, IPFS and Filecoin are super cool
